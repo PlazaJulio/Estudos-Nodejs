@@ -1,2 +1,5 @@
 # Estudos-Nodejs
-Aula
+Estudos básicos e avançados focado em back end utilizando Node.js
+
+
+
